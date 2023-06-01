@@ -2,4 +2,5 @@ hello2 test
 master1 modification test2
 dev try fast forward
 dev try merge with --no-ff
+dev test
 
